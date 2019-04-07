@@ -6,11 +6,17 @@ A place of things and ideas I want to challenge.
 
 ## NestJS
 
-- [ ] Add blog article on how to set up Kubernetes with @nestjs/terminus
 - [ ] Add test cases for @nestjs/typeorm
 - [ ] Add CI for @nestjs/core e2e tests
 - [ ] Add CD to @nestjs-integrations
 - [ ] Add NestJS symbol documentation with [dgeni](https://github.com/BrunnerLivio/nest-doc-dgeni-poc)
+
+### Terminus
+
+- [ ] Add blog article on how to set up Kubernetes with @nestjs/terminus
+- [ ] Add DiskHealthIndicator
+- [ ] Add MemoryHealthIndicator
+
 
 ## Deno
 
